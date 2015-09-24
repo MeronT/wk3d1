@@ -1,0 +1,23 @@
+.icon {
+	width: 100%;
+	max-width: 75px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+.promo h3{
+
+	text-align: center;
+
+}
+.promo p{
+
+	text-align: center;
+}
+
+#the-forms{
+	margin-top: 100px
+
+}
